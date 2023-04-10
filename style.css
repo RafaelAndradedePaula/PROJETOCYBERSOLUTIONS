@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Torneio', cursiva;
+   
+}
+
+body {
+    background: linear-gradient(90deg, rgba(54, 9, 9, 0.774) 30%, rgba(112, 119, 8, 0.842) 100%);
+    margin-bottom: 50px;
+   
+}
+
+.Prohibited {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    
+}
+
+.type-logo {
+    height: 60px;
+    margin-top: 10px;
+    margin-left: 120px;
+    border-radius: 15px;
+
+}
+
+.logo {
+    font-size: 20px;
+    background: linear-gradient(90deg, rgb(156, 54, 153) 30%, rgb(19, 5, 82) 100%);
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 100px;
+    color: yellow;
+    padding: 15px;
+    border-radius: 10px;
+    border-bottom: 5px solid #000754;
+    
+}
+
+.list {
+    margin-left: 110px;
+    height: 40px;
+    width: 110px;
+    margin-top: 25px;
+    font-size: 20px;
+    border-radius: 40px;
+    display: flex;
+    color: yellow;
+    border-bottom: 7px solid #000754;
+    background: linear-gradient(90deg, rgb(156, 54, 153) 30%, rgb(19, 5, 82) 100%);
+    cursor: pointer;
+    padding: 8px;
+}
+
+section h1 {
+    
+    margin-top: -500px;
+    margin-bottom: 50px;
+    font-size: 70px;
+    font-weight: 400;
+    margin-left: 180px;
+    background: none;
+    text-shadow: 10px 10px 10px yellowgreen;
+    font-style: italic;
+}
+
+section img {
+    height: 280px;
+    margin-left: 65px;
+    border-radius: 10px;
+    box-shadow: 10px 30px 15px yellow;
+}
+
+.language {
+    height: 60px;
+    margin-top: 160px;
+    margin-left: -160px;
+    border-radius: 5px;
+    box-shadow: 10px 20px 15px black;
+}
+
+.styless {
+    display: flex;
+    height: 60px;
+   margin-left: 300px;
+   box-shadow: 10px 20px 15px black;
+}
+
+.image {
+    height: 60px;
+    display: flex;
+    margin-top: -400px;
+    margin-left: 900px;
+    border-radius: 10px;
+    box-shadow: 10px 15px 15px yellow;
+
+}
+
+section button {
+    margin-left: 30px;
+    padding: 15px;
+    border-radius: 10px;
+    width: 140px;
+    background-color: red;
+    font-size: 20px;
+    font-weight: 800;
+    box-shadow: 20px 10px 30px blue;
+}
+
+section input {
+    margin-left: 500px;
+    margin-top: 40px;
+    height: 30px;
+    width: 20%;
+    font-size: 30px;
+    background: linear-gradient(100deg,  rgb(51, 29, 50) 60%, rgb(184, 162, 38) 100%);
+    color: azure;
+}
+
+section p {
+    margin-left: 525px;
+    background: none;
+    margin-top: -60px;
+    margin-bottom: 30px;
+    color: bisque;
+}
+
+article h3 {
+    text-transform: capitalize;
+    text-decoration: underline;
+    line-height: 30px;
+    width: 550px;
+    margin-left: 90px;
+    margin-top: 80px;
+    background: rgb(19, 15, 15);
+    color:white;
+    border-radius: 10px;
+    padding-left: 10px;
+    box-shadow: 0px 20px 50px 20px red;
+
+}
+
+.computer {
+    margin-left: 700px;
+    height: 250px;
+    margin-top: -390px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    box-shadow: 5px 15px 20px 30px blue;
+}
